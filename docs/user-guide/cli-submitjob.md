@@ -6,7 +6,7 @@
 
 Zowe CLI is a command line interface (CLI) that uses options and arguments to provide specific instructions that tell a computer to do something, such as execute (run) an application. Command line syntax is comprised of the following components:
 
-- **Argument:** An argument is a file name or other type of data that you provide to a command to let the command to use it as input. Arguments are pieces of information that tell a command what to do and where to find or send the results.
+- **Argument:** An argument is a file name, application name, or other type of data that you specify in a command in order for the command to use it as input. Arguments are pieces of information that tell a command what to do and where to send the results.
 
 - **Positional argument:** A set of arguments that are passed to a command in a required or logical order of operation.
 
