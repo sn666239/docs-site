@@ -910,7 +910,7 @@ z/OSMF workflow simplifies the procedure to create an SMP/E environment for Zowe
     5. Repeat step c and d to complete all items until the opiton **Finish** is avaialable. 
     6. Select **Finish**. 
 
-       After you execute each step, the step is marked as **Complete**. The workflow is executed. After you complete executing all the steps individually, the Zowe SMP/E is created. 
+After you execute each step, the step is marked as **Complete**. The workflow is executed. After you complete executing all the steps individually, the Zowe SMP/E is created. 
 
 
 ## Activating Zowe
